@@ -1,4 +1,6 @@
 Some text for me
-Changes from <main> - new changes!
+Changes from <main> 
+Changes from <future>
 
+Text from main: new changes!
 
